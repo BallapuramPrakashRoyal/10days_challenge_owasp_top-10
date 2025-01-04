@@ -10,11 +10,11 @@ This repository documents my **10-day challenge** to dive deep into the **OWASP 
 
 ## 🗓️ Challenge Schedule:  
 - **Day 1**: Broken Access Control  
-- **Day 2**: Cryptographic Failures  
+- **Day 2**: Security Misconfigurations and Cryptographic Failures  
 - **Day 3**: Injection  
-- **Day 4**: Insecure Design  
-- **Day 5**: Security Misconfiguration  
-- **Day 6**: Vulnerable and Outdated Components  
+- **Day 4**: File Upload Vulnerabilities  
+- **Day 5**: Security Misconfigurations and Broken Authentication  
+- **Day 6**: Sensitive Data Exposure  
 - **Day 7**: Identification and Authentication Failures  
 - **Day 8**: Software and Data Integrity Failures  
 - **Day 9**: Security Logging and Monitoring Failures  
